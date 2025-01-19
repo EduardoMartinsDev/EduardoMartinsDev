@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá! Eu sou o Edu 👋<br><br><br><br>Tenho ampla experiência em Gerência Operacional e Gestão de Equipes. Estou estudando análise e desenvolvimento de sistemas para agregar mais valor as instituições que eu venha a contribuir. Meu propósito é: A tecnologia a serviço dos negócios, aplicada para impulsionar melhorias contínuas. <br><br>
+## Olá! Eu sou o Edu 👋<br><br>Tenho ampla experiência em Gerência Operacional e Gestão de Equipes, com foco em liderar times para alcançar resultados consistentes. Atualmente, estou aprofundando meus conhecimentos em Análise e Desenvolvimento de Sistemas, buscando unir tecnologia e gestão para agregar ainda mais valor às organizações com as quais colaboro. Meu propósito é claro: usar a tecnologia como uma aliada estratégica dos negócios, promovendo melhorias contínuas e impulsionando o crescimento sustentável. <br><br>
 
 
 ## 🌐 Socials:
