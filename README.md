@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Olá! Eu sou o Edu 👋<br><br>- 🔭 Estudando FULL STACK PYTHON<br>- 🌱 Buscando uma oportunidade de aprendizado e contribuição, na área de Dev.<br><br>Tenho ampla experiência em coordenação administrativa e gestão de equipes. Estou estudando análise e desenvolvimento de sistemas para agregar mais valor as instituições que eu venha a contribuir. Meu propósito é: A tecnologia a serviço dos negócios, aplicada para impulsionar melhorias contínuas. <br><br>
+## Olá! Eu sou o Edu 👋<br><br><br><br>Tenho ampla experiência em Gerência Operacional e Gestão de Equipes. Estou estudando análise e desenvolvimento de sistemas para agregar mais valor as instituições que eu venha a contribuir. Meu propósito é: A tecnologia a serviço dos negócios, aplicada para impulsionar melhorias contínuas. <br><br>
 
 
 ## 🌐 Socials:
